@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Cyven's Braindump"
+theme='cortex'
+#theme='ananke'

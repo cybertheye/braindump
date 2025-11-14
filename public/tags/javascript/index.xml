@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Cyven&#39;s Braindump</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in Javascript on Cyven&#39;s Braindump</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>event loop</title>
+      <link>http://localhost:1313/posts/20250403123825-event_loop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250403123825-event_loop/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250404173616-asynchronous/&#34;&gt;Asynchronous&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250403235655-concurrency_model/&#34;&gt;Concurrency&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/posts/20250406090558-javascript/&#34;&gt;javascript&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/posts/20250403124035-process/&#34;&gt;process&lt;/a&gt; browser 计时器 promise ajax node&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;在了解时间循环之前, 首先要先了解 &lt;a href=&#34;http://localhost:1313/posts/20250420213134-what_is_process/&#34;&gt;什么是进程&lt;/a&gt; 以及 &lt;a href=&#34;http://localhost:1313/posts/20250420215035-what_is_thread/&#34;&gt;什么是线程&lt;/a&gt;,&lt;/p&gt;&#xA;&lt;p&gt;为什么呢? &lt;a href=&#34;http://localhost:1313/posts/20250420220017-what_is_the_event_loop_related_to/&#34;&gt;what is the event loop related to&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;resources:&#xA;&lt;a href=&#34;https://www.lydiahallie.com/blog/event-loop&#34;&gt;https://www.lydiahallie.com/blog/event-loop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

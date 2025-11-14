@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Command on Cyven&#39;s Braindump</title>
+    <link>http://localhost:1313/tags/command/</link>
+    <description>Recent content in Command on Cyven&#39;s Braindump</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/command/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tr</title>
+      <link>http://localhost:1313/posts/20250709134450-tr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250709134450-tr/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong:&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;translate characters&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;mapping&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;code&gt;echo &amp;quot;hello&amp;quot; | tr &#39;a-z&#39; &#39;A-Z&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;echo &amp;quot;hello&amp;quot; | tr &#39;el&#39; &#39;EL&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;delete&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;code&gt;echo &amp;quot;hello 12df3fa45&amp;quot; | tr -d &#39;0-9&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;squeeze&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;code&gt;&amp;quot;heeeeellloo&amp;quot; | tr -s &#39;elo&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;压缩 -s 后跟的参数 中的所有字符. 也就是连续的 e 压缩到1个, 连续的 l 压缩到1个, 连续的 o 压缩到1个&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cyven&#39;s Braindump</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Cyven&#39;s Braindump</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Affinity Designer</title>
+      <link>http://localhost:1313/posts/20250419130109-affinity_designer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250419130109-affinity_designer/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250419132758-ui_ux/&#34;&gt;UI/UX&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;the-issue&#34;&gt;The issue&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>algorithm</title>
+      <link>http://localhost:1313/posts/20250325202743-algorithm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250325202743-algorithm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asynchronous</title>
+      <link>http://localhost:1313/posts/20250404173616-asynchronous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250404173616-asynchronous/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>bleed</title>
+      <link>http://localhost:1313/posts/20250419131019-bleed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250419131019-bleed/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250419130039-setting/&#34;&gt;Setting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250419125738-margin/&#34;&gt;margin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bleed 的作用主要是&amp;quot;裁剪冗余&amp;quot;, 在印刷出版的时候,裁剪多多少少会有偏差,如果设计的内容元素十分贴合边框,那么在裁剪的时候会有些损失&#xA;那么 Bleed 就是为了解决这个问题&lt;/p&gt;&#xA;&lt;p&gt;假设你做一张 A4 封面，背景是纯红色。如果你只画到纸边，印刷机器稍微裁歪一点，就会露出白边。所以你得让红色背景**“多画出几毫米”**，让机器即使裁歪，也不会出错。&lt;/p&gt;&#xA;&lt;p&gt;出血是“保险”，margin 是“规矩”。&#xA;出血是为了印刷安全，margin 是为了排版美观。&lt;/p&gt;&#xA;&lt;p&gt;和 &lt;a href=&#34;http://localhost:1313/posts/20250419125738-margin/&#34;&gt;margin&lt;/a&gt; 一样&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在 new Document 的时候, 进行设置&lt;/li&gt;&#xA;&lt;li&gt;在 File-&amp;gt; Document setup 中进行设置&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-04-19_13-27-04_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>browser</title>
+      <link>http://localhost:1313/posts/20250420220350-browser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420220350-browser/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;浏览器是一个 &lt;strong&gt;多进程&lt;/strong&gt; 多线程的应用程序&lt;/p&gt;&#xA;&lt;p&gt;对,它是多进程的!&lt;/p&gt;&#xA;&lt;p&gt;说是应用程序,其实它的复杂程度已经和 &lt;a href=&#34;http://localhost:1313/posts/20250420212348-operating_system/&#34;&gt;Operating System&lt;/a&gt; 不相上下了&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/20250420220704-what_processes_and_threads_does_a_browser_have/&#34;&gt;What processes and threads does a browser have?&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>browser process</title>
+      <link>http://localhost:1313/posts/20250421232225-browser_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250421232225-browser_process/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250420220350-browser/&#34;&gt;browser&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/20250421223504-what_does_browser_process_do/&#34;&gt;what does browser process do?&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>C</title>
+      <link>http://localhost:1313/posts/20250318222950-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250318222950-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/posts/20250318223016-c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250318223016-c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Concurrency</title>
+      <link>http://localhost:1313/posts/20250403235655-concurrency_model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250403235655-concurrency_model/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong:&lt;/li&gt;&#xA;&lt;li&gt;issue:&lt;/li&gt;&#xA;&lt;li&gt;relation:&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>create shape in vector mask</title>
+      <link>http://localhost:1313/posts/20250322173917-create_shape_in_vector_mask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250322173917-create_shape_in_vector_mask/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;需要在图层中选择矢量蒙版缩略图&lt;/li&gt;&#xA;&lt;li&gt;形状要选择路径而不是图层 !!!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250321214530-ps_mask/&#34;&gt;PS Mask&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>crop pic in current layer</title>
+      <link>http://localhost:1313/posts/20250321213840-crop_pic_in_current_layer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250321213840-crop_pic_in_current_layer/</guid>
+      <description>&lt;h2 id=&#34;ps中如何裁剪当前图层的图像-而不影响其他&#34;&gt;ps中如何裁剪当前图层的图像，而不影响其他&lt;/h2&gt;&#xA;&lt;h3 id=&#34;使用反向选择然后删除&#34;&gt;使用反向选择然后删除&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;选中当前图层（在“图层”面板中点击该图层）。&lt;/li&gt;&#xA;&lt;li&gt;使用选框工具（快捷键：M），选择你想保留的部分。&lt;/li&gt;&#xA;&lt;li&gt;执行“选择”→“反向”（Shift + Ctrl + I / Shift + Command + I），反选多余部分。&lt;/li&gt;&#xA;&lt;li&gt;按 Delete 删除 选中部分（适用于像素图层）。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-03-21_21-41-21_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h3 id=&#34;使用-ps-mask--20250321214530-ps-mask-dot-md&#34;&gt;使用&lt;a href=&#34;http://localhost:1313/posts/20250321214530-ps_mask/&#34;&gt;PS Mask&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;添加矩形选区：使用“矩形选框工具”（M）绘制选区。&lt;/li&gt;&#xA;&lt;li&gt;新建一个“矢量蒙版”：在“图层”面板底部点击“添加蒙版”按钮。&lt;/li&gt;&#xA;&lt;li&gt;调整蒙版：如果需要修改裁剪区域，可以点击蒙版缩略图并调整。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;这种方法不会永久删除内容，随时可以调整或恢复。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CSS</title>
+      <link>http://localhost:1313/posts/20250624142326-css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250624142326-css/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Cascading Style Sheets 层叠样式表&#xA;定义网页中的东西长什么样子&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>delete node in org-roam</title>
+      <link>http://localhost:1313/posts/20250708223106-delete_node_in_org_roam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250708223106-delete_node_in_org_roam/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250318225328-org_roam/&#34;&gt;org-roam&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;rm the md file&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;M-x org-roam-db-sync&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/posts/20250619163326-devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250619163326-devops/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>ECMAScript</title>
+      <link>http://localhost:1313/posts/20250618080049-ecmascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250618080049-ecmascript/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;它是一个脚本语言的标准,&lt;/p&gt;&#xA;&lt;p&gt;JavaScript是他的其中一个实现&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emacs</title>
+      <link>http://localhost:1313/posts/20250317224646-emacs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250317224646-emacs/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250321000125-emacs_basic_concept/&#34;&gt;Emacs Basic Concept&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Emacs Basic Concept</title>
+      <link>http://localhost:1313/posts/20250321000125-emacs_basic_concept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250321000125-emacs_basic_concept/</guid>
+      <description>&lt;h2 id=&#34;basic-concept&#34;&gt;Basic Concept&lt;/h2&gt;&#xA;&lt;h3 id=&#34;frame&#34;&gt;frame&lt;/h3&gt;&#xA;&lt;p&gt;是整个应用窗口，但是在Emacs中称呼一个窗口是一个frame&#xA;可以开多个“窗口”也就是多个frame，&#xA;在其他应用中，可能就是开了多个浏览器的意思&lt;/p&gt;&#xA;&lt;h3 id=&#34;window&#34;&gt;window&lt;/h3&gt;&#xA;&lt;p&gt;我的理解是在一个frame中的展示容器&#xA;可以分裂多个window&lt;/p&gt;&#xA;&lt;h3 id=&#34;buffer&#34;&gt;buffer&lt;/h3&gt;&#xA;&lt;p&gt;在window中展示的内容&lt;/p&gt;&#xA;&lt;h3 id=&#34;echo-area&#34;&gt;echo area&lt;/h3&gt;&#xA;&lt;p&gt;最底下的这块区域&lt;/p&gt;&#xA;&lt;h3 id=&#34;mode-line&#34;&gt;mode line&lt;/h3&gt;&#xA;&lt;h3 id=&#34;point&#34;&gt;point&lt;/h3&gt;&#xA;&lt;h3 id=&#34;major-mode&#34;&gt;major mode&lt;/h3&gt;&#xA;&lt;h3 id=&#34;minor-mode&#34;&gt;minor mode&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Emmet</title>
+      <link>http://localhost:1313/posts/20250617070503-emmet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250617070503-emmet/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.emmet.io/&#34;&gt;https://docs.emmet.io/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Emmet是一个插件,用于类似Emacs,vs code等文本编辑器中&#xA;Emmet 是一套快速编写 HTML/CSS 的缩写语法与扩展工具，极大提高了前端开发效率。&lt;/p&gt;&#xA;&lt;p&gt;它解决的问题：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML/CSS 编写冗长、重复，效率低下&lt;/li&gt;&#xA;&lt;li&gt;结构嵌套复杂、手写费时&lt;/li&gt;&#xA;&lt;li&gt;缺乏一致性的手动缩进与格式化&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;它用于提高编写 HTML&amp;amp;CSS 的效率&lt;/p&gt;&#xA;&lt;p&gt;比如编写&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-nil&#34; data-lang=&#34;nil&#34;&gt;div&amp;gt;ul&amp;gt;li&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;然后执行 Expand Abbreviation (一般是 Tab 快捷键)它会自动扩展成&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;所以它有一套 Abbreviations Syntax 是要学的&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>event loop</title>
+      <link>http://localhost:1313/posts/20250403123825-event_loop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250403123825-event_loop/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250404173616-asynchronous/&#34;&gt;Asynchronous&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250403235655-concurrency_model/&#34;&gt;Concurrency&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/posts/20250406090558-javascript/&#34;&gt;javascript&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/posts/20250403124035-process/&#34;&gt;process&lt;/a&gt; browser 计时器 promise ajax node&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;在了解时间循环之前, 首先要先了解 &lt;a href=&#34;http://localhost:1313/posts/20250420213134-what_is_process/&#34;&gt;什么是进程&lt;/a&gt; 以及 &lt;a href=&#34;http://localhost:1313/posts/20250420215035-what_is_thread/&#34;&gt;什么是线程&lt;/a&gt;,&lt;/p&gt;&#xA;&lt;p&gt;为什么呢? &lt;a href=&#34;http://localhost:1313/posts/20250420220017-what_is_the_event_loop_related_to/&#34;&gt;what is the event loop related to&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;resources:&#xA;&lt;a href=&#34;https://www.lydiahallie.com/blog/event-loop&#34;&gt;https://www.lydiahallie.com/blog/event-loop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>flask</title>
+      <link>http://localhost:1313/posts/20250328191036-flask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250328191036-flask/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>get files under dir recursively</title>
+      <link>http://localhost:1313/posts/20250323143601-get_files_under_dir_recursively/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250323143601-get_files_under_dir_recursively/</guid>
+      <description>&lt;p&gt;我设置了 &lt;code&gt;(setq org-agenda-file &#39;(&amp;quot;path/to/root-agenda-dir&amp;quot;))&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Org-agenda 默认不会递归检索 &lt;code&gt;&amp;quot;path/to/root-agenda-dir&amp;quot;&lt;/code&gt; 子目录的 org 文件，&lt;/p&gt;&#xA;&lt;p&gt;可以使用 &lt;code&gt;directory-files-recursively&lt;/code&gt; 函数, 这是系统自带的方法&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;(setq org-agenda-files (directory-files-recursively &amp;quot;/Users/mmmmmcclxxvii/Documents/cybertheye&#39;s life&amp;quot; &amp;quot;\\.org$&amp;quot;))&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250323162846-org_agenda/&#34;&gt;org agenda&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>go</title>
+      <link>http://localhost:1313/posts/20250409101651-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250409101651-go/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250318222812-programming_language/&#34;&gt;Programming Language&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>http://localhost:1313/posts/20250624142124-html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250624142124-html/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250404230607-web/&#34;&gt;web&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250617070503-emmet/&#34;&gt;Emmet&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hyper Text Markup Language&#xA;定义网页中有什么&lt;/p&gt;&#xA;&lt;p&gt;素颜照,可以使用美颜(&lt;a href=&#34;http://localhost:1313/posts/20250624142326-css/&#34;&gt;CSS&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hugo</title>
+      <link>http://localhost:1313/posts/20250404225505-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250404225505-hugo/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250404230551-static_site_generator/&#34;&gt;static site generator&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250409100516-jekyll/&#34;&gt;jekyll&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/posts/20250409101651-go/&#34;&gt;go&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hugo 是一个可以将 md 文件生成静态页面的生成器工具&lt;/p&gt;&#xA;&lt;p&gt;这样,我们可以专注于内容&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ideas</title>
+      <link>http://localhost:1313/posts/20250319231541-ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250319231541-ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/posts/20250318223044-java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250318223044-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>javascript</title>
+      <link>http://localhost:1313/posts/20250406090558-javascript/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250406090558-javascript/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250318222812-programming_language/&#34;&gt;Programming Language&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/posts/20250618080049-ecmascript/&#34;&gt;ECMAScript&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>jekyll</title>
+      <link>http://localhost:1313/posts/20250409100516-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250409100516-jekyll/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250404230551-static_site_generator/&#34;&gt;static site generator&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>margin</title>
+      <link>http://localhost:1313/posts/20250419125738-margin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250419125738-margin/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250419130039-setting/&#34;&gt;Setting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250419131019-bleed/&#34;&gt;bleed&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Margin 是你希望内容离页面边缘的安全距离， &lt;strong&gt;以确保重要信息（比如文字、Logo）不会贴太近边缘或被裁掉&lt;/strong&gt; .&lt;/p&gt;&#xA;&lt;p&gt;它只提供一个提示的作用, 可以在 view-&amp;gt;show margin 显示出当前的 margin&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-04-19_13-06-08_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;上面图例意味着,在排版的时候尽量不要超出边框的部分, 不是强制的&lt;/p&gt;&#xA;&lt;p&gt;不同项目的 margin 要求不一样（书籍、名片、广告页都不一样）。可以自行设置&lt;/p&gt;&#xA;&lt;p&gt;可以通过两种方式设置:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在 new Document 的时候, 进行设置&lt;/li&gt;&#xA;&lt;li&gt;在 File-&amp;gt; Document setup 中进行设置&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>mcp</title>
+      <link>http://localhost:1313/posts/20250403122013-mcp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250403122013-mcp/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;resource&#34;&gt;resource&lt;/h2&gt;&#xA;&lt;h3 id=&#34;youtube&#34;&gt;youtube&lt;/h3&gt;&#xA;&lt;h4 id=&#34;https-www-dot-youtube-dot-com-watch-v-d0duu3ded4&#34;&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=_d0duu3dED4&#34;&gt;https://www.youtube.com/watch?v=_d0duu3dED4&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;today we&amp;rsquo;re diving into the model&#xA;context protocol or MCP One of the most&#xA;significant advancements in LLM&#xA;integration released by Anthropic in&#xA;late&#xA;2024 So what exactly is MCP at its core&#xA;the model context protocol is an open&#xA;standard that enables seamless&#xA;integration between AI models like&#xA;claude and external data sources or&#xA;tools is addressing a fundamental&#xA;limitation that has held back AI&#xA;assistance from reaching their potential&#xA;Before MCP connecting models to each new&#xA;data source require custom&#xA;implementations which can get expensive&#xA;MCB solves this by providing a universal&#xA;open standard for connecting AI systems&#xA;with data sources replacing fragmented&#xA;integrations with a single protocol This&#xA;means we can give AI systems access to&#xA;databases file systems APIs and other&#xA;tools in a standardized way Let&amp;rsquo;s break&#xA;down the architecture MCP follows a&#xA;client server models with three key&#xA;components Hosts clients and servers&#xA;Host are LLM applications like cloud&#xA;desktop that provide the environment for&#xA;connections Clients are components&#xA;within the host that establish and&#xA;maintain onetoone connections with&#xA;external servers Servers are separate&#xA;processes that provide context tools and&#xA;prompts to these clients exposing&#xA;specific capabilities through the&#xA;standardized protocol Let&amp;rsquo;s dive deeper&#xA;into the five core primitives that power&#xA;MCP These primitives are the building&#xA;blocks that enable standardized&#xA;communication between AI models and&#xA;external systems&#xA;Servers support three primitives First&#xA;prompts These are instructions or&#xA;templates that can be injected into the&#xA;LLM context They guide how the model&#xA;should approach certain tasks or data&#xA;Second resources structured data objects&#xA;that can be included in the LLM&amp;rsquo;s&#xA;context window They allow the model to&#xA;reference external information Third&#xA;tools Executable functions that the LLM&#xA;can call to retrieve information or&#xA;perform actions outside its context like&#xA;quering a database or modifying a file&#xA;On the client side there are two&#xA;primitives that are equally important&#xA;First the root primitive Think of it as&#xA;creating a secure channel for file&#xA;access It allows the AI application to&#xA;safely work with files on your local&#xA;system by opening documents reading code&#xA;or analyzing data files without giving&#xA;unrestricted access to your entire file&#xA;system Second the sampling primitive&#xA;This enables a server to request the&#xA;LLM&amp;rsquo;s help when needed For example if an&#xA;MCP server is analyzing your database&#xA;schema it needs to generate a relevant&#xA;query you can ask the LLM to help&#xA;formulate that query through the&#xA;sampling primitive This create a two-way&#xA;interaction where both the AI and the&#xA;external tools can initiate requests to&#xA;each other making the whole system more&#xA;flexible and&#xA;powerful Now the real power of MCP&#xA;becomes clear when we consider the N byN&#xA;problem it solves Previously integrating&#xA;n different LLMs with m different tools&#xA;require m by m different integrations&#xA;with mcp tool builders who implement one&#xA;protocol and llm vendors like anthropic&#xA;implement the same protocol dramatically&#xA;simplifying the integration landscape&#xA;Let&amp;rsquo;s look at a practical example using&#xA;cloud When we need cloud to analyze data&#xA;from our postgress database we don&amp;rsquo;t&#xA;need to build a custom integration&#xA;Instead we can use an MCP server for&#xA;Postgress that exposes database&#xA;connections through the protocol&amp;rsquo;s&#xA;primitives Claude through an MCP client&#xA;can then query the database where MCP&#xA;server process the results and&#xA;incorporate the insight into its&#xA;responses all while maintaining security&#xA;and context The ecosystem is growing&#xA;rapidly Developers have already created&#xA;many integrations using MCP for systems&#xA;like Google Drive Slack GitHub Git and&#xA;Postgress There are SDKs availables in&#xA;multiple languages including Typescript&#xA;and Python making it easier to implement&#xA;in various environments Looking ahead&#xA;MCP is positioned to become a&#xA;foundational technology in the AI&#xA;landscape particularly for building&#xA;sophisticated AI applications that&#xA;interact with diverse data sources and&#xA;tools The open source nature and growing&#xA;ecosystem make it accessible to&#xA;developers of all sizes If you like our&#xA;videos you might like our system design&#xA;newsletter as well It covers topics and&#xA;trends in large scale system design&#xA;trusted by 1 million readers Subscribe&#xA;at blog.byo.com&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>network process</title>
+      <link>http://localhost:1313/posts/20250421232510-network_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250421232510-network_process/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250420220350-browser/&#34;&gt;browser&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>nvm</title>
+      <link>http://localhost:1313/posts/20250403233112-nvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250403233112-nvm/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: pyenv jenv&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;NVM 是 Node.js 的版本管理器 (version manager)&lt;/p&gt;&#xA;&lt;p&gt;我电脑上现在是用 &lt;code&gt;brew install nvm&lt;/code&gt; 安装的&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Operating System</title>
+      <link>http://localhost:1313/posts/20250420212348-operating_system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420212348-operating_system/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>org agenda</title>
+      <link>http://localhost:1313/posts/20250323162846-org_agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250323162846-org_agenda/</guid>
+      <description>&lt;p&gt;Org-agenda 是 Emacs Org-mode 提供的一个强大任务管理系统，&#xA;它可以汇总多个 Org 文件中的待办事项（TODO）、日程（Schedule）、截止日期（Deadline）和计划（Plan），并生成一个可视化的任务清单。&lt;/p&gt;&#xA;&lt;p&gt;你可以把 Org-agenda 当作一个个人任务管理系统，它的功能类似于：&lt;/p&gt;&#xA;&lt;p&gt;📅 GTD（Getting Things Done）&#xA;✅ 日历 &amp;amp; 任务管理&#xA;📝 项目跟踪&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>org-mode</title>
+      <link>http://localhost:1313/posts/20250318232903-org_mode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250318232903-org_mode/</guid>
+      <description>&lt;h2 id=&#34;help&#34;&gt;help&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;org-ctrl-c-ctrl-c&#34;&gt;C-c C-c&lt;/a&gt;   查看文档，可以做好多事情，不管什么，可以都试试这个命令&lt;/p&gt;&#xA;&lt;p&gt;可以使用 &lt;a href=&#34;org-store-link&#34;&gt;org-store-link&lt;/a&gt; 来保存buffer的页面&#xA;然后使用 C-c C-l 来在这里插入&lt;/p&gt;&#xA;&lt;h2 id=&#34;emacs-buffer-操作&#34;&gt;emacs buffer 操作&lt;/h2&gt;&#xA;&lt;p&gt;C-x left/right buffer切换上一个，下一个&#xA;ace-swap-window 左右分屏交换&lt;/p&gt;&#xA;&lt;h2 id=&#34;org-mode操作的部分&#34;&gt;org-mode操作的部分 &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;test3&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/h2&gt;&#xA;&lt;p&gt;TAB 控制当前的headline以下的级别的展开和隐蔽&#xA;S-TAB 控制全局所有的headline的展开和关闭&lt;/p&gt;&#xA;&lt;p&gt;C-c C-k&lt;/p&gt;&#xA;&lt;p&gt;C-c C-x c clone克隆 subtree，可以试试在 &lt;a href=&#34;#deadlines-and-schedules&#34;&gt;deadlines and schedules&lt;/a&gt; 上进行克隆&lt;/p&gt;&#xA;&lt;p&gt;C-c C-z 插入一个note&lt;/p&gt;&#xA;&lt;p&gt;C-c C-u 跳到上一级&lt;/p&gt;&#xA;&lt;h2 id=&#34;refile&#34;&gt;refile&lt;/h2&gt;&#xA;&lt;p&gt;C-c C-w&lt;/p&gt;&#xA;&lt;h3 id=&#34;archive&#34;&gt;archive&lt;/h3&gt;&#xA;&lt;p&gt;C-c C-x C-s 单个的entry的archive。&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;#+ARCHIVE: %s_done::datetree/* Finished&lt;/code&gt;&#xA;::前面的是archive到哪个文件的文件名，如果没有指定路径就是默认同一个文件夹下，%s代表获取当前文件名&#xA;::后面是archive到这个文件的哪个headline下 也可以使用%s,比如 &lt;code&gt;::* From %s&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>org-ref</title>
+      <link>http://localhost:1313/posts/20250323220733-org_ref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250323220733-org_ref/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>org-roam</title>
+      <link>http://localhost:1313/posts/20250318225328-org_roam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250318225328-org_roam/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250318232903-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;belong: TODO&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;relation: TODO&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;方法论&#34;&gt;方法论&lt;/h2&gt;&#xA;&lt;p&gt;对于每个大的topic,可以做一个 entrance 的node&#xA;比如Rust entrance ,这个node记录如何设置环境,基本工具的使用&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;what 概念类: concept&lt;/li&gt;&#xA;&lt;li&gt;how  应用类:&lt;/li&gt;&#xA;&lt;li&gt;question/bug 问题类:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;理论上应用和问题应该链接概念的&lt;/p&gt;&#xA;&lt;p&gt;why类, 比如为什么这个要这样设计, 转为 blog 上的长文章&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;每个卡片里面尽量多以提问为主来引导思考&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;原则&#34;&gt;原则&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;link 就近原则: 设置relation的时候,只设置最接近的关系(也就是&amp;quot;朋友的朋友&amp;quot;不要设置)&lt;/li&gt;&#xA;&lt;li&gt;尽量单一(避免过长)原则: 这个度的控制看自己, 不过也不用太零碎,一个小主题下的可以放一起,方便一块复习&lt;/li&gt;&#xA;&lt;li&gt;自然形成原则: 在创建一个node的时候,不要为了要有链接去创造链接,而是去自然形成这个网络,主要是设置好alias,tag,可以搜索到node&lt;/li&gt;&#xA;&lt;li&gt;避免无意义的大节点&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;配置&#34;&gt;配置&lt;/h2&gt;&#xA;&lt;p&gt;查看 &lt;a href=&#34;~/.emacs.d/site-lisp/config/org/init-org-roam.el&#34;&gt;init-org-roam configuration&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;方法&#34;&gt;方法&lt;/h2&gt;&#xA;&lt;h3 id=&#34;completion-at-point&#34;&gt;completion at point&lt;/h3&gt;&#xA;&lt;p&gt;这个很有用,可以快速的插入 link&lt;/p&gt;&#xA;&lt;p&gt;我现在绑定的是 &lt;code&gt;s-i&lt;/code&gt; 快捷键&lt;/p&gt;&#xA;&lt;p&gt;但是如果要启用这个功能的话,必须同时要配置&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;(setq org-roam-completion-everywhere t)&lt;/code&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;org-roam-alias-add&#34;&gt;org-roam-alias-add&lt;/h3&gt;&#xA;&lt;p&gt;这里有一个场景,也就是比方在 Emacs lisp org file下有一个 node 是 Resources&#xA;然后在Rust的 org file 下也有一个 node 是 Resources&#xA;这时候我们用 &lt;code&gt;org-roam-node-insert&lt;/code&gt; 会有两个 Resources 出现,那么就会分不清&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>org-roam ref</title>
+      <link>http://localhost:1313/posts/20250323220055-org_roam_ref/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250323220055-org_roam_ref/</guid>
+      <description>&lt;p&gt;可以给一个node添加一个ref,&#xA;这个ref可以是&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;url&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250323220733-org_ref/&#34;&gt;org-ref&lt;/a&gt; citation key&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;相当于这个节点,绑定了这个ref&lt;/p&gt;&#xA;&lt;p&gt;如果有其他 node 使用了这个 url 或者同样的 org-ref citation key&#xA;那么就会在绑定ref node 的 org-roam buffer 以 Reflink 形式(其实也是backlink) 中出现, 比如当前这个 node, 现在使用 &lt;code&gt;org-roam-buffer-toggle&lt;/code&gt; 试试看&lt;/p&gt;&#xA;&lt;p&gt;方法:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;code&gt;org-roam-ref-add&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;code&gt;org-roam-ref-remove&lt;/code&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250318225328-org_roam/&#34;&gt;org-roam&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/posts/20250323220733-org_ref/&#34;&gt;org-ref&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>org-roam template expansion</title>
+      <link>http://localhost:1313/posts/20250330153040-org_roam_template_expansion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250330153040-org_roam_template_expansion/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;ref:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.orgroam.com/manual.html#Org_002droam-Template-Expansion-1&#34;&gt;Org-roam Template Expansion&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>org-roam template slug</title>
+      <link>http://localhost:1313/posts/20250330150924-org_roam_template_slug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250330150924-org_roam_template_slug/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;issue: &lt;strong&gt;其实这里要解决的是文件名空格问题&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250330153040-org_roam_template_expansion/&#34;&gt;org-roam template expansion&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-elisp&#34; data-lang=&#34;elisp&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;d&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;default&amp;#34;&lt;/span&gt; plain &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;%?&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;     :target (file+head &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;%&amp;lt;%Y%m%d%H%M%S&amp;gt;-${slug}.org&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                        &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;#+title: ${title}\n&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;     :unnarrowed &lt;span style=&#34;color:#66d9ef&#34;&gt;t&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这里的 &lt;code&gt;${slug}&lt;/code&gt; 是什么意思?&lt;/p&gt;&#xA;&lt;p&gt;其实这里的 slug 表示一个 org 文件里面的一个 property&lt;/p&gt;&#xA;&lt;p&gt;org-roam在创建一个文件node的时候会默认的创建几个 property,比如 slug,id,title等&lt;/p&gt;&#xA;&lt;p&gt;而这个 slug 是由 &lt;code&gt;org-roam-node-slug&lt;/code&gt; 函数创建的, 它的作用是,比如 title 是 hello world, slug就是 hello_world&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;${slug}&lt;/code&gt; 表示引用这个属性值,这样创建出来的文件名就不会有空格问题了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ox-hugo</title>
+      <link>http://localhost:1313/posts/20250409101805-ox_hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250409101805-ox_hugo/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250318232903-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: 解决从org文件到md文件的转换&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250404225505-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ox-hugo is an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/20250317224646-emacs/&#34;&gt;Emacs&lt;/a&gt; 用户会使用 org 来写内容, 为了使用 &lt;a href=&#34;http://localhost:1313/posts/20250404225505-hugo/&#34;&gt;hugo&lt;/a&gt; 来生成静态网页文件生成博客等网页,&#xA;我们需要先让 org 转化到 md 文件,然后再交给 hugo 处理接下来的事情&lt;/p&gt;&#xA;&lt;p&gt;TODO 如何做到的&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Persona</title>
+      <link>http://localhost:1313/posts/20250419142747-persona/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250419142747-persona/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250419130109-affinity_designer/&#34;&gt;Affinity Designer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;这里中文翻译是角色&lt;/p&gt;&#xA;&lt;p&gt;因为 Affinity Designer 把矢量和像素处理都放在一块了&#xA;所以要使用矢量工具的时候切换到Designer角色,&#xA;使用栅格或其他像素处理切换到像素角色&#xA;还有一个是导出角色,顾名思义,负责导出&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-04-19_14-37-33_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;让我们来看一下每个角色的功能。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Designer 角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;绘制曲线和形状&#xA;添加矢量画笔笔画&#xA;添加填充和透明度&#xA;创建艺术字和边框文本&#xA;添加和裁切照片和矢量图像&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;像素角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;进行基于手绘、形状和画笔的选择&#xA;添加像素画笔笔画&#xA;使用像素画笔擦除&#xA;利用专门工具修饰&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;导出角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;选择要导出的选定区域&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>process</title>
+      <link>http://localhost:1313/posts/20250403124035-process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250403124035-process/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250420212348-operating_system/&#34;&gt;Operating System&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/20250420213134-what_is_process/&#34;&gt;什么是进程&lt;/a&gt; ?&lt;/p&gt;&#xA;&lt;p&gt;TODO 进程包含了哪些资源资料&lt;/p&gt;&#xA;&lt;p&gt;TODO 进程的状态&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Programming Language</title>
+      <link>http://localhost:1313/posts/20250318222812-programming_language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250318222812-programming_language/</guid>
+      <description>&lt;p&gt;The Language I want to master:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250318222950-c/&#34;&gt;C Entrance&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250318223016-c/&#34;&gt;C++ Entrance&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250318223044-java/&#34;&gt;Java Entrance&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250318223054-rust/&#34;&gt;Rust Entrance&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>PS Index</title>
+      <link>http://localhost:1313/posts/20250321213016-ps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250321213016-ps/</guid>
+      <description>&lt;h2 id=&#34;index&#34;&gt;Index&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250321214530-ps_mask/&#34;&gt;PS Mask&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;learning-by-doing&#34;&gt;learning by doing&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250321213840-crop_pic_in_current_layer/&#34;&gt;crop pic in current layer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>PS Mask</title>
+      <link>http://localhost:1313/posts/20250321214530-ps_mask/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250321214530-ps_mask/</guid>
+      <description>&lt;h2 id=&#34;图层蒙版-layer-mask&#34;&gt;图层蒙版 Layer Mask&lt;/h2&gt;&#xA;&lt;p&gt;作用：针对某个图层，让部分区域变透明或隐藏。&lt;/p&gt;&#xA;&lt;p&gt;操作: 可以使用 M 选择区域,然后点击“添加图层蒙版”按钮（图层面板底部的 ⊙）。&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-03-22_08-54-26_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;剪贴蒙版-cliping-mask&#34;&gt;剪贴蒙版 Cliping Mask&lt;/h2&gt;&#xA;&lt;p&gt;作用：让 &lt;strong&gt;上层图层&lt;/strong&gt; 的可见区域受到下层图层的形状限制。&#xA;操作: 选中图层,然后按 alt 键&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-03-22_10-22-38_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;注意受限制的是上层&#xA;你会看到上方图层的内容仅在下方图层的形状范围内显示。&lt;/p&gt;&#xA;&lt;h2 id=&#34;矢量蒙版&#34;&gt;矢量蒙版&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/20250322173917-create_shape_in_vector_mask/&#34;&gt;create shape in vector mask&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>rasterize</title>
+      <link>http://localhost:1313/posts/20250419152421-rasterize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250419152421-rasterize/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;就是把矢量图形转化为像素图形的过程&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>rendering process</title>
+      <link>http://localhost:1313/posts/20250421232426-rendering_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250421232426-rendering_process/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250420220350-browser/&#34;&gt;browser&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/20250421230501-what_does_rendering_process_do/&#34;&gt;what does rendering process do?&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ROE</title>
+      <link>http://localhost:1313/posts/20250806085848-roe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250806085848-roe/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong:&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;ROE 全称 Return on Equity&lt;/p&gt;&#xA;&lt;h2 id=&#34;它解决的问题&#34;&gt;它解决的问题&lt;/h2&gt;&#xA;&lt;p&gt;ROE衡量的是企业为股东创造利润的能力, 即投入1单位的股东资金,企业赚了多少利润&lt;/p&gt;&#xA;&lt;h2 id=&#34;计算公式&#34;&gt;计算公式&lt;/h2&gt;&#xA;&lt;p&gt;ROE = 净利润 ÷ 平均股东权益&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/posts/20250318223054-rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250318223054-rust/</guid>
+      <description>&lt;h2 id=&#34;what-is-rust&#34;&gt;What is Rust&lt;/h2&gt;&#xA;&lt;p&gt;Rust是一门高级编程语言，他专注于性能，安全，并发领域&#xA;它通过废除GC机制来达到上述的目标&#xA;取而代之的是所有权系统&#xA;他的语法和C++接近，但是比C++提供了更多的内存安全性同时还能保证高性能&lt;/p&gt;&#xA;&lt;p&gt;Rust is a systems programming language that aims to provide memory safety, concurrency,&#xA;and performance with a focus on zero cost abstractions&lt;/p&gt;&#xA;&lt;h3 id=&#34;什么是zero-cost-abstractions&#34;&gt;什么是zero cost abstractions？&lt;/h3&gt;&#xA;&lt;p&gt;其实就是摒弃了垃圾回收机制，因为那套机制会有时间和空间上的花费&lt;/p&gt;&#xA;&lt;p&gt;In Rust, memory safety is accomplished through a system of ownership with a set of rules&#xA;that the compiler checks at compile time. This system eliminates the need of garbage collection&#xA;or manual memory management, hence ensuring swift execution of software along with a safer memory environment&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setting</title>
+      <link>http://localhost:1313/posts/20250419130039-setting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250419130039-setting/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250419130109-affinity_designer/&#34;&gt;Affinity Designer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;the-issue&#34;&gt;The issue&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>SSH</title>
+      <link>http://localhost:1313/posts/20250619170441-ssh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250619170441-ssh/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>static site generator</title>
+      <link>http://localhost:1313/posts/20250404230551-static_site_generator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250404230551-static_site_generator/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250404230607-web/&#34;&gt;web&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>System</title>
+      <link>http://localhost:1313/posts/20250321112838-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250321112838-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System Architect</title>
+      <link>http://localhost:1313/posts/20250324201151-system_architect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250324201151-system_architect/</guid>
+      <description>&lt;h2 id=&#34;考试说明&#34;&gt;考试说明&lt;/h2&gt;&#xA;&lt;h3 id=&#34;考试要求&#34;&gt;考试要求：&lt;/h3&gt;&#xA;&lt;p&gt;（1）掌握计算机硬软件与网络的基础知识；&#xA;（2）熟悉信息系统开发过程；&#xA;（3）理解信息系统开发标准、常用信息技术标准；&#xA;（4）熟悉主流的中间件和应用服务器平台；&#xA;（5）掌握软件系统建模、系统架构设计基本技术；&#xA;（6）熟练掌握信息安全技术、安全策略、安全管理知识；&#xA;（7）了解信息化、信息技术有关法律、法规的基础知识；&#xA;（8）了解用户的行业特点，并根据行业特点架构合适的系统设计；&#xA;（9）掌握应用数学基础知识；&#xA;（10）熟练阅读和正确理解相关领域的英文文献；&lt;/p&gt;&#xA;&lt;h3 id=&#34;考试合格人员能够根据系统需求规格说明书-结合应用领域和技术发展的实际情况-考虑有关约束条件-设计正确-合理的软件架构-确保系统架构具有良好的特性-能够对项目的系统架构进行描述-分析-设计与评估-能够按照相关标准编写相应的设计文档-能够与系统分析师-项目管理师相互协作-配合工作-具有高级工程师的实际工作能力和业务水平&#34;&gt;考试合格人员能够根据系统需求规格说明书，结合应用领域和技术发展的实际情况，考虑有关约束条件，设计正确、合理的软件架构，确保系统架构具有良好的特性；能够对项目的系统架构进行描述、分析、设计与评估；能够按照相关标准编写相应的设计文档；能够与系统分析师、项目管理师相互协作、配合工作；具有高级工程师的实际工作能力和业务水平。&lt;/h3&gt;&#xA;&lt;h3 id=&#34;本考试设置的科目包括&#34;&gt;本考试设置的科目包括：&lt;/h3&gt;&#xA;&lt;p&gt;（1）信息系统综合知识，考试时间为150分钟，笔试，选择题；&#xA;（2）系统架构设计案例分析，考试时间为90分钟，笔试，问答题；&#xA;（3）系统架构设计论文，考试时间为120分钟，笔试，论文题。&lt;/p&gt;&#xA;&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/xiaomabenten/system_architect&#34;&gt;GitHub - xiaomabenten/system_architect: 💯2025年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;链接：&lt;a href=&#34;https://pan.baidu.com/s/1Vcrn7lSybj0iI5yvuRnhcQ&#34;&gt;https://pan.baidu.com/s/1Vcrn7lSybj0iI5yvuRnhcQ&lt;/a&gt;&#xA;提取码：rjkj&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/20250323221540-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250323221540-test/</guid>
+      <description>&lt;h2 id=&#34;meme&#34;&gt;meme&lt;/h2&gt;&#xA;&lt;p&gt;测试 org-roam 功能使用&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.orgroam.com/manual.html#Refs-1&#34;&gt;Org-roam User Manual&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>thread</title>
+      <link>http://localhost:1313/posts/20250420214129-thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420214129-thread/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250403124035-process/&#34;&gt;process&lt;/a&gt; &lt;a href=&#34;http://localhost:1313/posts/20250403235655-concurrency_model/&#34;&gt;Concurrency&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/20250420215035-what_is_thread/&#34;&gt;what is thread&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tmux</title>
+      <link>http://localhost:1313/posts/20250619155251-tmux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250619155251-tmux/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250619163326-devops/&#34;&gt;DevOps&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;tmux 是一个终端复用器, 在一个终端或一次 &lt;a href=&#34;http://localhost:1313/posts/20250619170441-ssh/&#34;&gt;SSH&lt;/a&gt; 登录中,可以运行多个程序,无须开多个终端,所以叫复用器.&lt;/p&gt;&#xA;&lt;p&gt;同时它还解决了&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;会话保持. 传统 SSH 连接断开后,后台任务就会结束,tmux重新连接后可以继续工作&lt;/li&gt;&#xA;&lt;li&gt;界面布局. 可以分屏,提高效率&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>tmux pane</title>
+      <link>http://localhost:1313/posts/20250708221413-tmux_pane/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250708221413-tmux_pane/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250619155251-tmux/&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b %&lt;/code&gt; split horizontal&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b &amp;quot;&lt;/code&gt; split vertical&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b x&lt;/code&gt; close current pane&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b t&lt;/code&gt; show clock in current pane&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b o&lt;/code&gt; select next pane&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b &amp;lt;arrow&amp;gt;&lt;/code&gt; select the pane that arrow indicated&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b {&lt;/code&gt; swap the current pane with the previous one&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b }&lt;/code&gt; swap the current pane with the next one&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b z&lt;/code&gt; maximizes the current pane to full-screen&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tmux session</title>
+      <link>http://localhost:1313/posts/20250619163357-tmux_session/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250619163357-tmux_session/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250619155251-tmux/&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b $&lt;/code&gt; rename session&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b s&lt;/code&gt; list all session&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b d&lt;/code&gt; detach current session&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tmux window</title>
+      <link>http://localhost:1313/posts/20250708221423-tmux_window/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250708221423-tmux_window/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250619155251-tmux/&#34;&gt;tmux&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b c&lt;/code&gt; create new window&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b ,&lt;/code&gt; rename current window&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b number|0,1,2...&lt;/code&gt; switch window&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;C-b w&lt;/code&gt; list all window&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tr</title>
+      <link>http://localhost:1313/posts/20250709134450-tr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250709134450-tr/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong:&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;translate characters&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;mapping&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;code&gt;echo &amp;quot;hello&amp;quot; | tr &#39;a-z&#39; &#39;A-Z&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;echo &amp;quot;hello&amp;quot; | tr &#39;el&#39; &#39;EL&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;delete&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;code&gt;echo &amp;quot;hello 12df3fa45&amp;quot; | tr -d &#39;0-9&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;squeeze&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;code&gt;&amp;quot;heeeeellloo&amp;quot; | tr -s &#39;elo&#39;&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;压缩 -s 后跟的参数 中的所有字符. 也就是连续的 e 压缩到1个, 连续的 l 压缩到1个, 连续的 o 压缩到1个&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>UI/UX</title>
+      <link>http://localhost:1313/posts/20250419132758-ui_ux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250419132758-ui_ux/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;the-issue&#34;&gt;The issue&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>web</title>
+      <link>http://localhost:1313/posts/20250404230607-web/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250404230607-web/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250420220350-browser/&#34;&gt;browser&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>what does browser process do?</title>
+      <link>http://localhost:1313/posts/20250421223504-what_does_browser_process_do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250421223504-what_does_browser_process_do/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250421232225-browser_process/&#34;&gt;browser process&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;relation: TODO&lt;/p&gt;&#xA;&lt;p&gt;主要负责&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;界面交互&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;用户交互&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;子进程管理&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;浏览器进程会去启动其他进程比如渲染进程,网络进程&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>what does network process do?</title>
+      <link>http://localhost:1313/posts/20250421231645-what_does_web_process_do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250421231645-what_does_web_process_do/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250421232510-network_process/&#34;&gt;network process&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;负责加载网络资源,内部会有多个线程来处理不同的网络加载任务&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>what does rendering process do?</title>
+      <link>http://localhost:1313/posts/20250421230501-what_does_rendering_process_do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250421230501-what_does_rendering_process_do/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250421232426-rendering_process/&#34;&gt;rendering process&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;渲染进程启动后,会开启一个  渲染主线程,它负责执行 HTML,CSS,JS 代码&lt;/p&gt;&#xA;&lt;p&gt;现在浏览器是每个标签页独立一个渲染进程,这也是标签开多了 chrome 占用内存很大的原因&lt;/p&gt;&#xA;&lt;p&gt;这么做的主要原因是为了标签页之间互不影响.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>what is process</title>
+      <link>http://localhost:1313/posts/20250420213134-what_is_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420213134-what_is_process/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250403124035-process/&#34;&gt;process&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;物理上进程是一个程序在执行的时候,计算机分配给他的所有资源的统称&lt;/p&gt;&#xA;&lt;p&gt;所以在抽象层面,也可以理解,进程就是 &lt;strong&gt;一个程序的执行实例&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;在早期 unix, linux版本 &amp;lt;=2.4 的时候, 进程是程序的基本执行单位.&lt;/p&gt;&#xA;&lt;p&gt;而在现代的操作系统中, 进程是 &lt;a href=&#34;http://localhost:1313/posts/20250420214129-thread/&#34;&gt;thread&lt;/a&gt; 的容器, thread 是程序基本的执行单位&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>what is the event loop related to</title>
+      <link>http://localhost:1313/posts/20250420220017-what_is_the_event_loop_related_to/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420220017-what_is_the_event_loop_related_to/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250403123825-event_loop/&#34;&gt;event loop&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;概括的来说,和浏览器的进程模型相关,里面又可以细分&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>what is thread</title>
+      <link>http://localhost:1313/posts/20250420215035-what_is_thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420215035-what_is_thread/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250420214129-thread/&#34;&gt;thread&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;线程是进程内的执行单元, 什么叫执行单元, 就是具体干活的人, 运行代码的人&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What processes and threads does a browser have?</title>
+      <link>http://localhost:1313/posts/20250420220704-what_processes_and_threads_does_a_browser_have/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420220704-what_processes_and_threads_does_a_browser_have/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250420220350-browser/&#34;&gt;browser&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;可以在浏览器的任务管理器查看所有的进程&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-04-20_22-15-20_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;这里最主要的进程有:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250421232225-browser_process/&#34;&gt;browser process&lt;/a&gt;  浏览器进程:&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250421232426-rendering_process/&#34;&gt;rendering process&lt;/a&gt; 渲染进程:&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/20250421232510-network_process/&#34;&gt;network process&lt;/a&gt; 网络进程&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;包含的线程则是在各个进程里面&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

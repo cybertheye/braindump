@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concept on Cyven&#39;s Braindump</title>
+    <link>http://localhost:1313/tags/concept/</link>
+    <description>Recent content in Concept on Cyven&#39;s Braindump</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/concept/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emacs Basic Concept</title>
+      <link>http://localhost:1313/posts/20250321000125-emacs_basic_concept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250321000125-emacs_basic_concept/</guid>
+      <description>&lt;h2 id=&#34;basic-concept&#34;&gt;Basic Concept&lt;/h2&gt;&#xA;&lt;h3 id=&#34;frame&#34;&gt;frame&lt;/h3&gt;&#xA;&lt;p&gt;是整个应用窗口，但是在Emacs中称呼一个窗口是一个frame&#xA;可以开多个“窗口”也就是多个frame，&#xA;在其他应用中，可能就是开了多个浏览器的意思&lt;/p&gt;&#xA;&lt;h3 id=&#34;window&#34;&gt;window&lt;/h3&gt;&#xA;&lt;p&gt;我的理解是在一个frame中的展示容器&#xA;可以分裂多个window&lt;/p&gt;&#xA;&lt;h3 id=&#34;buffer&#34;&gt;buffer&lt;/h3&gt;&#xA;&lt;p&gt;在window中展示的内容&lt;/p&gt;&#xA;&lt;h3 id=&#34;echo-area&#34;&gt;echo area&lt;/h3&gt;&#xA;&lt;p&gt;最底下的这块区域&lt;/p&gt;&#xA;&lt;h3 id=&#34;mode-line&#34;&gt;mode line&lt;/h3&gt;&#xA;&lt;h3 id=&#34;point&#34;&gt;point&lt;/h3&gt;&#xA;&lt;h3 id=&#34;major-mode&#34;&gt;major mode&lt;/h3&gt;&#xA;&lt;h3 id=&#34;minor-mode&#34;&gt;minor mode&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>org agenda</title>
+      <link>http://localhost:1313/posts/20250323162846-org_agenda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250323162846-org_agenda/</guid>
+      <description>&lt;p&gt;Org-agenda 是 Emacs Org-mode 提供的一个强大任务管理系统，&#xA;它可以汇总多个 Org 文件中的待办事项（TODO）、日程（Schedule）、截止日期（Deadline）和计划（Plan），并生成一个可视化的任务清单。&lt;/p&gt;&#xA;&lt;p&gt;你可以把 Org-agenda 当作一个个人任务管理系统，它的功能类似于：&lt;/p&gt;&#xA;&lt;p&gt;📅 GTD（Getting Things Done）&#xA;✅ 日历 &amp;amp; 任务管理&#xA;📝 项目跟踪&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>what is process</title>
+      <link>http://localhost:1313/posts/20250420213134-what_is_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420213134-what_is_process/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250403124035-process/&#34;&gt;process&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;物理上进程是一个程序在执行的时候,计算机分配给他的所有资源的统称&lt;/p&gt;&#xA;&lt;p&gt;所以在抽象层面,也可以理解,进程就是 &lt;strong&gt;一个程序的执行实例&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;在早期 unix, linux版本 &amp;lt;=2.4 的时候, 进程是程序的基本执行单位.&lt;/p&gt;&#xA;&lt;p&gt;而在现代的操作系统中, 进程是 &lt;a href=&#34;http://localhost:1313/posts/20250420214129-thread/&#34;&gt;thread&lt;/a&gt; 的容器, thread 是程序基本的执行单位&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>what is thread</title>
+      <link>http://localhost:1313/posts/20250420215035-what_is_thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250420215035-what_is_thread/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250420214129-thread/&#34;&gt;thread&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;线程是进程内的执行单元, 什么叫执行单元, 就是具体干活的人, 运行代码的人&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

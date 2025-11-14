@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>My New Hugo Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="">
+    <meta name="generator" content="Hugo 0.152.2">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+
+    
+
+
+    
+      
+
+    
+
+    
+    
+      <link href="/posts/index.xml" rel="alternate" type="application/rss+xml" title="My New Hugo Site" />
+      <link href="/posts/index.xml" rel="feed" type="application/rss+xml" title="My New Hugo Site" />
+      
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/posts/">
+    
+
+    <meta property="og:url" content="http://localhost:1313/posts/">
+  <meta property="og:site_name" content="My New Hugo Site">
+  <meta property="og:title" content="Posts">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  <meta itemprop="name" content="Posts">
+  <meta itemprop="datePublished" content="2025-11-11T14:43:24+08:00">
+  <meta itemprop="dateModified" content="2025-11-11T14:43:24+08:00">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Posts">
+
+	
+  </head><body class="ma0 avenir bg-near-white development">
+
+    
+
+  <header>
+    <div class="pb3-m pb6-l bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l center items-center justify-between">
+    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+      
+        My New Hugo Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv3 ph3 ph4-ns">
+        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
+          Posts
+        </h1>
+        
+      </div>
+    </div>
+  </header>
+
+
+    <main class="pb7" role="main">
+      
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links mid-gray"></section>
+    <section class="flex-ns mt5 flex-wrap justify-around">
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250403122013-mcp/" class="link black dim">
+        mcp
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <ul>
+<li>belong: TODO</li>
+<li>issue: TODO</li>
+<li>relation: TODO</li>
+</ul>
+<h2 id="resource">resource</h2>
+<h3 id="youtube">youtube</h3>
+<h4 id="https-www-dot-youtube-dot-com-watch-v-d0duu3ded4"><a href="https://www.youtube.com/watch?v=_d0duu3dED4">https://www.youtube.com/watch?v=_d0duu3dED4</a></h4>
+<p>today we&rsquo;re diving into the model
+context protocol or MCP One of the most
+significant advancements in LLM
+integration released by Anthropic in
+late
+2024 So what exactly is MCP at its core
+the model context protocol is an open
+standard that enables seamless
+integration between AI models like
+claude and external data sources or
+tools is addressing a fundamental
+limitation that has held back AI
+assistance from reaching their potential
+Before MCP connecting models to each new
+data source require custom
+implementations which can get expensive
+MCB solves this by providing a universal
+open standard for connecting AI systems
+with data sources replacing fragmented
+integrations with a single protocol This
+means we can give AI systems access to
+databases file systems APIs and other
+tools in a standardized way Let&rsquo;s break
+down the architecture MCP follows a
+client server models with three key
+components Hosts clients and servers
+Host are LLM applications like cloud
+desktop that provide the environment for
+connections Clients are components
+within the host that establish and
+maintain onetoone connections with
+external servers Servers are separate
+processes that provide context tools and
+prompts to these clients exposing
+specific capabilities through the
+standardized protocol Let&rsquo;s dive deeper
+into the five core primitives that power
+MCP These primitives are the building
+blocks that enable standardized
+communication between AI models and
+external systems
+Servers support three primitives First
+prompts These are instructions or
+templates that can be injected into the
+LLM context They guide how the model
+should approach certain tasks or data
+Second resources structured data objects
+that can be included in the LLM&rsquo;s
+context window They allow the model to
+reference external information Third
+tools Executable functions that the LLM
+can call to retrieve information or
+perform actions outside its context like
+quering a database or modifying a file
+On the client side there are two
+primitives that are equally important
+First the root primitive Think of it as
+creating a secure channel for file
+access It allows the AI application to
+safely work with files on your local
+system by opening documents reading code
+or analyzing data files without giving
+unrestricted access to your entire file
+system Second the sampling primitive
+This enables a server to request the
+LLM&rsquo;s help when needed For example if an
+MCP server is analyzing your database
+schema it needs to generate a relevant
+query you can ask the LLM to help
+formulate that query through the
+sampling primitive This create a two-way
+interaction where both the AI and the
+external tools can initiate requests to
+each other making the whole system more
+flexible and
+powerful Now the real power of MCP
+becomes clear when we consider the N byN
+problem it solves Previously integrating
+n different LLMs with m different tools
+require m by m different integrations
+with mcp tool builders who implement one
+protocol and llm vendors like anthropic
+implement the same protocol dramatically
+simplifying the integration landscape
+Let&rsquo;s look at a practical example using
+cloud When we need cloud to analyze data
+from our postgress database we don&rsquo;t
+need to build a custom integration
+Instead we can use an MCP server for
+Postgress that exposes database
+connections through the protocol&rsquo;s
+primitives Claude through an MCP client
+can then query the database where MCP
+server process the results and
+incorporate the insight into its
+responses all while maintaining security
+and context The ecosystem is growing
+rapidly Developers have already created
+many integrations using MCP for systems
+like Google Drive Slack GitHub Git and
+Postgress There are SDKs availables in
+multiple languages including Typescript
+and Python making it easier to implement
+in various environments Looking ahead
+MCP is positioned to become a
+foundational technology in the AI
+landscape particularly for building
+sophisticated AI applications that
+interact with diverse data sources and
+tools The open source nature and growing
+ecosystem make it accessible to
+developers of all sizes If you like our
+videos you might like our system design
+newsletter as well It covers topics and
+trends in large scale system design
+trusted by 1 million readers Subscribe
+at blog.byo.com</p>
+    </div>
+    <a href="/posts/20250403122013-mcp/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250421232510-network_process/" class="link black dim">
+        network process
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <ul>
+<li>belong: <a href="/posts/20250420220350-browser/">browser</a></li>
+<li>relation: TODO</li>
+</ul>
+    </div>
+    <a href="/posts/20250421232510-network_process/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250403233112-nvm/" class="link black dim">
+        nvm
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <ul>
+<li>belong: TODO</li>
+<li>issue: TODO</li>
+<li>relation: pyenv jenv</li>
+</ul>
+<p>NVM 是 Node.js 的版本管理器 (version manager)</p>
+<p>我电脑上现在是用 <code>brew install nvm</code> 安装的</p>
+    </div>
+    <a href="/posts/20250403233112-nvm/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250420212348-operating_system/" class="link black dim">
+        Operating System
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <ul>
+<li>belong: TODO</li>
+<li>relation: TODO</li>
+</ul>
+    </div>
+    <a href="/posts/20250420212348-operating_system/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250323162846-org_agenda/" class="link black dim">
+        org agenda
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <p>Org-agenda 是 Emacs Org-mode 提供的一个强大任务管理系统，
+它可以汇总多个 Org 文件中的待办事项（TODO）、日程（Schedule）、截止日期（Deadline）和计划（Plan），并生成一个可视化的任务清单。</p>
+<p>你可以把 Org-agenda 当作一个个人任务管理系统，它的功能类似于：</p>
+<p>📅 GTD（Getting Things Done）
+✅ 日历 &amp; 任务管理
+📝 项目跟踪</p>
+    </div>
+    <a href="/posts/20250323162846-org_agenda/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250318232903-org_mode/" class="link black dim">
+        org-mode
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <h2 id="help">help</h2>
+<p><a href="org-ctrl-c-ctrl-c">C-c C-c</a>   查看文档，可以做好多事情，不管什么，可以都试试这个命令</p>
+<p>可以使用 <a href="org-store-link">org-store-link</a> 来保存buffer的页面
+然后使用 C-c C-l 来在这里插入</p>
+<h2 id="emacs-buffer-操作">emacs buffer 操作</h2>
+<p>C-x left/right buffer切换上一个，下一个
+ace-swap-window 左右分屏交换</p>
+<h2 id="org-mode操作的部分">org-mode操作的部分 <span class="tag"><span class="test3">test3</span></span></h2>
+<p>TAB 控制当前的headline以下的级别的展开和隐蔽
+S-TAB 控制全局所有的headline的展开和关闭</p>
+<p>C-c C-k</p>
+<p>C-c C-x c clone克隆 subtree，可以试试在 <a href="#deadlines-and-schedules">deadlines and schedules</a> 上进行克隆</p>
+<p>C-c C-z 插入一个note</p>
+<p>C-c C-u 跳到上一级</p>
+<h2 id="refile">refile</h2>
+<p>C-c C-w</p>
+<h3 id="archive">archive</h3>
+<p>C-c C-x C-s 单个的entry的archive。</p>
+<p><code>#+ARCHIVE: %s_done::datetree/* Finished</code>
+::前面的是archive到哪个文件的文件名，如果没有指定路径就是默认同一个文件夹下，%s代表获取当前文件名
+::后面是archive到这个文件的哪个headline下 也可以使用%s,比如 <code>::* From %s</code></p>
+<p>C-u C-c C-x C-s 在当前headline下找到所有的DONE的entry去archive
+C-u C-u C-c C-x C-s 在当前headline下找到所有时间戳早于今天的entry去archive</p>
+<p>C-c C-x C-a Archive the current entry using the command specified in the variable org-archive-default-command.
+现在这个命令就是 org-archive-subtree跟 C-c C-x C-s一样
+可以自定义更改</p>
+    </div>
+    <a href="/posts/20250318232903-org_mode/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250323220733-org_ref/" class="link black dim">
+        org-ref
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      
+    </div>
+    <a href="/posts/20250323220733-org_ref/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250318225328-org_roam/" class="link black dim">
+        org-roam
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <ul>
+<li>
+<p>relation: <a href="/posts/20250318232903-org_mode/">org-mode</a></p>
+</li>
+<li>
+<p>belong: TODO</p>
+</li>
+<li>
+<p>relation: TODO</p>
+</li>
+</ul>
+<h2 id="方法论">方法论</h2>
+<p>对于每个大的topic,可以做一个 entrance 的node
+比如Rust entrance ,这个node记录如何设置环境,基本工具的使用</p>
+<ul>
+<li>what 概念类: concept</li>
+<li>how  应用类:</li>
+<li>question/bug 问题类:</li>
+</ul>
+<p>理论上应用和问题应该链接概念的</p>
+<p>why类, 比如为什么这个要这样设计, 转为 blog 上的长文章</p>
+<p><strong>每个卡片里面尽量多以提问为主来引导思考</strong></p>
+<h2 id="原则">原则</h2>
+<ul>
+<li>link 就近原则: 设置relation的时候,只设置最接近的关系(也就是&quot;朋友的朋友&quot;不要设置)</li>
+<li>尽量单一(避免过长)原则: 这个度的控制看自己, 不过也不用太零碎,一个小主题下的可以放一起,方便一块复习</li>
+<li>自然形成原则: 在创建一个node的时候,不要为了要有链接去创造链接,而是去自然形成这个网络,主要是设置好alias,tag,可以搜索到node</li>
+<li>避免无意义的大节点</li>
+</ul>
+<h2 id="配置">配置</h2>
+<p>查看 <a href="~/.emacs.d/site-lisp/config/org/init-org-roam.el">init-org-roam configuration</a></p>
+<h2 id="方法">方法</h2>
+<h3 id="completion-at-point">completion at point</h3>
+<p>这个很有用,可以快速的插入 link</p>
+<p>我现在绑定的是 <code>s-i</code> 快捷键</p>
+<p>但是如果要启用这个功能的话,必须同时要配置</p>
+<p><code>(setq org-roam-completion-everywhere t)</code></p>
+<h3 id="org-roam-alias-add">org-roam-alias-add</h3>
+<p>这里有一个场景,也就是比方在 Emacs lisp org file下有一个 node 是 Resources
+然后在Rust的 org file 下也有一个 node 是 Resources
+这时候我们用 <code>org-roam-node-insert</code> 会有两个 Resources 出现,那么就会分不清</p>
+    </div>
+    <a href="/posts/20250318225328-org_roam/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250323220055-org_roam_ref/" class="link black dim">
+        org-roam ref
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <p>可以给一个node添加一个ref,
+这个ref可以是</p>
+<ul>
+<li>url</li>
+<li><a href="/posts/20250323220733-org_ref/">org-ref</a> citation key</li>
+</ul>
+<p>相当于这个节点,绑定了这个ref</p>
+<p>如果有其他 node 使用了这个 url 或者同样的 org-ref citation key
+那么就会在绑定ref node 的 org-roam buffer 以 Reflink 形式(其实也是backlink) 中出现, 比如当前这个 node, 现在使用 <code>org-roam-buffer-toggle</code> 试试看</p>
+<p>方法:</p>
+<ul>
+<li>
+<p><code>org-roam-ref-add</code></p>
+</li>
+<li>
+<p><code>org-roam-ref-remove</code></p>
+</li>
+<li>
+<p>relation: <a href="/posts/20250318225328-org_roam/">org-roam</a> <a href="/posts/20250323220733-org_ref/">org-ref</a></p>
+</li>
+</ul>
+    </div>
+    <a href="/posts/20250323220055-org_roam_ref/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+        <div class="w-100 w-30-l mb4 relative bg-white">
+          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
+  <div class="mb3 pa4 gray overflow-hidden bg-white">
+    <span class="f6 db">Posts</span>
+    <h1 class="f3 near-black">
+      <a href="/posts/20250330153040-org_roam_template_expansion/" class="link black dim">
+        org-roam template expansion
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      <ul>
+<li>ref:</li>
+</ul>
+<p><a href="https://www.orgroam.com/manual.html#Org_002droam-Template-Expansion-1">Org-roam Template Expansion</a></p>
+    </div>
+    <a href="/posts/20250330153040-org_roam_template_expansion/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+  </div>
+</div>
+
+        </div>
+      
+    </section>
+    <ul class="pagination pagination-default">
+      <li class="page-item">
+        <a href="/posts/" aria-label="First" class="page-link" role="button"><span aria-hidden="true">&laquo;&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/3/" aria-label="Previous" class="page-link" role="button"><span aria-hidden="true">&laquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/2/" aria-label="Page 2" class="page-link" role="button">2</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/3/" aria-label="Page 3" class="page-link" role="button">3</a>
+      </li>
+      <li class="page-item active">
+        <a aria-current="page" aria-label="Page 4" class="page-link" role="button">4</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/5/" aria-label="Page 5" class="page-link" role="button">5</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/6/" aria-label="Page 6" class="page-link" role="button">6</a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/5/" aria-label="Next" class="page-link" role="button"><span aria-hidden="true">&raquo;</span></a>
+      </li>
+      <li class="page-item">
+        <a href="/posts/page/8/" aria-label="Last" class="page-link" role="button"><span aria-hidden="true">&raquo;&raquo;</span></a>
+      </li>
+    </ul></article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/" >
+    &copy;  My New Hugo Site 2025 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

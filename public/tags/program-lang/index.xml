@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Program-Lang on Cyven&#39;s Braindump</title>
+    <link>http://localhost:1313/tags/program-lang/</link>
+    <description>Recent content in Program-Lang on Cyven&#39;s Braindump</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/program-lang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>go</title>
+      <link>http://localhost:1313/posts/20250409101651-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250409101651-go/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250318222812-programming_language/&#34;&gt;Programming Language&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/posts/20250318223054-rust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20250318223054-rust/</guid>
+      <description>&lt;h2 id=&#34;what-is-rust&#34;&gt;What is Rust&lt;/h2&gt;&#xA;&lt;p&gt;Rust是一门高级编程语言，他专注于性能，安全，并发领域&#xA;它通过废除GC机制来达到上述的目标&#xA;取而代之的是所有权系统&#xA;他的语法和C++接近，但是比C++提供了更多的内存安全性同时还能保证高性能&lt;/p&gt;&#xA;&lt;p&gt;Rust is a systems programming language that aims to provide memory safety, concurrency,&#xA;and performance with a focus on zero cost abstractions&lt;/p&gt;&#xA;&lt;h3 id=&#34;什么是zero-cost-abstractions&#34;&gt;什么是zero cost abstractions？&lt;/h3&gt;&#xA;&lt;p&gt;其实就是摒弃了垃圾回收机制，因为那套机制会有时间和空间上的花费&lt;/p&gt;&#xA;&lt;p&gt;In Rust, memory safety is accomplished through a system of ownership with a set of rules&#xA;that the compiler checks at compile time. This system eliminates the need of garbage collection&#xA;or manual memory management, hence ensuring swift execution of software along with a safer memory environment&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
