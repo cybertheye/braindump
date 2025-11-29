@@ -2,14 +2,14 @@
   
     <title>Index</title>
   
-  <link href="http://localhost:1313/index.xml" rel="self"/>
-  <link href="http://localhost:1313/"/>
-  <id>http://localhost:1313/</id>
+  <link href="http://localhost:59885/index.xml" rel="self"/>
+  <link href="http://localhost:59885/"/>
+  <id>http://localhost:59885/</id>
   <generator>Hugo -- gohugo.io</generator>
   <entry>
     <title type="html"><![CDATA[Posts]]></title>
-    <link href="http://localhost:1313/posts/"/>
-    <id>http://localhost:1313/posts/</id>
+    <link href="http://localhost:59885/posts/"/>
+    <id>http://localhost:59885/posts/</id>
     <published>0001-01-01T00:00:00+00:00</published>
     <updated>0001-01-01T00:00:00+00:00</updated>
     <content type="html"><![CDATA[]]></content>

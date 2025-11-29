@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on Cyven&#39;s Braindump</title>
-    <link>http://localhost:1313/tags/css/</link>
+    <link>http://localhost:59885/tags/css/</link>
     <description>Recent content in Css on Cyven&#39;s Braindump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59885/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emmet</title>
-      <link>http://localhost:1313/posts/20250617070503-emmet/</link>
+      <link>http://localhost:59885/posts/20250617070503-emmet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250617070503-emmet/</guid>
+      <guid>http://localhost:59885/posts/20250617070503-emmet/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: TODO&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.emmet.io/&#34;&gt;https://docs.emmet.io/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Emmet是一个插件,用于类似Emacs,vs code等文本编辑器中&#xA;Emmet 是一套快速编写 HTML/CSS 的缩写语法与扩展工具，极大提高了前端开发效率。&lt;/p&gt;&#xA;&lt;p&gt;它解决的问题：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTML/CSS 编写冗长、重复，效率低下&lt;/li&gt;&#xA;&lt;li&gt;结构嵌套复杂、手写费时&lt;/li&gt;&#xA;&lt;li&gt;缺乏一致性的手动缩进与格式化&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;它用于提高编写 HTML&amp;amp;CSS 的效率&lt;/p&gt;&#xA;&lt;p&gt;比如编写&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-nil&#34; data-lang=&#34;nil&#34;&gt;div&amp;gt;ul&amp;gt;li&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;然后执行 Expand Abbreviation (一般是 Tab 快捷键)它会自动扩展成&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;li&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;ul&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;所以它有一套 Abbreviations Syntax 是要学的&lt;/p&gt;</description>
     </item>
   </channel>

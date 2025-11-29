@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mask on Cyven&#39;s Braindump</title>
-    <link>http://localhost:1313/tags/mask/</link>
+    <link>http://localhost:59885/tags/mask/</link>
     <description>Recent content in Mask on Cyven&#39;s Braindump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/mask/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59885/tags/mask/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>create shape in vector mask</title>
-      <link>http://localhost:1313/posts/20250322173917-create_shape_in_vector_mask/</link>
+      <link>http://localhost:59885/posts/20250322173917-create_shape_in_vector_mask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250322173917-create_shape_in_vector_mask/</guid>
-      <description>&lt;ol&gt;&#xA;&lt;li&gt;需要在图层中选择矢量蒙版缩略图&lt;/li&gt;&#xA;&lt;li&gt;形状要选择路径而不是图层 !!!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250321214530-ps_mask/&#34;&gt;PS Mask&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:59885/posts/20250322173917-create_shape_in_vector_mask/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;需要在图层中选择矢量蒙版缩略图&lt;/li&gt;&#xA;&lt;li&gt;形状要选择路径而不是图层 !!!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:59885/posts/20250321214530-ps_mask/&#34;&gt;PS Mask&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

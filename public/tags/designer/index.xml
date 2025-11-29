@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designer on Cyven&#39;s Braindump</title>
-    <link>http://localhost:1313/tags/designer/</link>
+    <link>http://localhost:59885/tags/designer/</link>
     <description>Recent content in Designer on Cyven&#39;s Braindump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/designer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59885/tags/designer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bleed</title>
-      <link>http://localhost:1313/posts/20250419131019-bleed/</link>
+      <link>http://localhost:59885/posts/20250419131019-bleed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250419131019-bleed/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250419130039-setting/&#34;&gt;Setting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250419125738-margin/&#34;&gt;margin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bleed 的作用主要是&amp;quot;裁剪冗余&amp;quot;, 在印刷出版的时候,裁剪多多少少会有偏差,如果设计的内容元素十分贴合边框,那么在裁剪的时候会有些损失&#xA;那么 Bleed 就是为了解决这个问题&lt;/p&gt;&#xA;&lt;p&gt;假设你做一张 A4 封面，背景是纯红色。如果你只画到纸边，印刷机器稍微裁歪一点，就会露出白边。所以你得让红色背景**“多画出几毫米”**，让机器即使裁歪，也不会出错。&lt;/p&gt;&#xA;&lt;p&gt;出血是“保险”，margin 是“规矩”。&#xA;出血是为了印刷安全，margin 是为了排版美观。&lt;/p&gt;&#xA;&lt;p&gt;和 &lt;a href=&#34;http://localhost:1313/posts/20250419125738-margin/&#34;&gt;margin&lt;/a&gt; 一样&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在 new Document 的时候, 进行设置&lt;/li&gt;&#xA;&lt;li&gt;在 File-&amp;gt; Document setup 中进行设置&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-04-19_13-27-04_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <guid>http://localhost:59885/posts/20250419131019-bleed/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:59885/posts/20250419130039-setting/&#34;&gt;Setting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:59885/posts/20250419125738-margin/&#34;&gt;margin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bleed 的作用主要是&amp;quot;裁剪冗余&amp;quot;, 在印刷出版的时候,裁剪多多少少会有偏差,如果设计的内容元素十分贴合边框,那么在裁剪的时候会有些损失&#xA;那么 Bleed 就是为了解决这个问题&lt;/p&gt;&#xA;&lt;p&gt;假设你做一张 A4 封面，背景是纯红色。如果你只画到纸边，印刷机器稍微裁歪一点，就会露出白边。所以你得让红色背景**“多画出几毫米”**，让机器即使裁歪，也不会出错。&lt;/p&gt;&#xA;&lt;p&gt;出血是“保险”，margin 是“规矩”。&#xA;出血是为了印刷安全，margin 是为了排版美观。&lt;/p&gt;&#xA;&lt;p&gt;和 &lt;a href=&#34;http://localhost:59885/posts/20250419125738-margin/&#34;&gt;margin&lt;/a&gt; 一样&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在 new Document 的时候, 进行设置&lt;/li&gt;&#xA;&lt;li&gt;在 File-&amp;gt; Document setup 中进行设置&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:59885/ox-hugo/2025-04-19_13-27-04_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>margin</title>
-      <link>http://localhost:1313/posts/20250419125738-margin/</link>
+      <link>http://localhost:59885/posts/20250419125738-margin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250419125738-margin/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250419130039-setting/&#34;&gt;Setting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250419131019-bleed/&#34;&gt;bleed&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Margin 是你希望内容离页面边缘的安全距离， &lt;strong&gt;以确保重要信息（比如文字、Logo）不会贴太近边缘或被裁掉&lt;/strong&gt; .&lt;/p&gt;&#xA;&lt;p&gt;它只提供一个提示的作用, 可以在 view-&amp;gt;show margin 显示出当前的 margin&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-04-19_13-06-08_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;上面图例意味着,在排版的时候尽量不要超出边框的部分, 不是强制的&lt;/p&gt;&#xA;&lt;p&gt;不同项目的 margin 要求不一样（书籍、名片、广告页都不一样）。可以自行设置&lt;/p&gt;&#xA;&lt;p&gt;可以通过两种方式设置:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在 new Document 的时候, 进行设置&lt;/li&gt;&#xA;&lt;li&gt;在 File-&amp;gt; Document setup 中进行设置&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <guid>http://localhost:59885/posts/20250419125738-margin/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:59885/posts/20250419130039-setting/&#34;&gt;Setting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:59885/posts/20250419131019-bleed/&#34;&gt;bleed&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Margin 是你希望内容离页面边缘的安全距离， &lt;strong&gt;以确保重要信息（比如文字、Logo）不会贴太近边缘或被裁掉&lt;/strong&gt; .&lt;/p&gt;&#xA;&lt;p&gt;它只提供一个提示的作用, 可以在 view-&amp;gt;show margin 显示出当前的 margin&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:59885/ox-hugo/2025-04-19_13-06-08_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;上面图例意味着,在排版的时候尽量不要超出边框的部分, 不是强制的&lt;/p&gt;&#xA;&lt;p&gt;不同项目的 margin 要求不一样（书籍、名片、广告页都不一样）。可以自行设置&lt;/p&gt;&#xA;&lt;p&gt;可以通过两种方式设置:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;在 new Document 的时候, 进行设置&lt;/li&gt;&#xA;&lt;li&gt;在 File-&amp;gt; Document setup 中进行设置&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Persona</title>
-      <link>http://localhost:1313/posts/20250419142747-persona/</link>
+      <link>http://localhost:59885/posts/20250419142747-persona/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250419142747-persona/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250419130109-affinity_designer/&#34;&gt;Affinity Designer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;这里中文翻译是角色&lt;/p&gt;&#xA;&lt;p&gt;因为 Affinity Designer 把矢量和像素处理都放在一块了&#xA;所以要使用矢量工具的时候切换到Designer角色,&#xA;使用栅格或其他像素处理切换到像素角色&#xA;还有一个是导出角色,顾名思义,负责导出&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/ox-hugo/2025-04-19_14-37-33_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;让我们来看一下每个角色的功能。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Designer 角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;绘制曲线和形状&#xA;添加矢量画笔笔画&#xA;添加填充和透明度&#xA;创建艺术字和边框文本&#xA;添加和裁切照片和矢量图像&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;像素角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;进行基于手绘、形状和画笔的选择&#xA;添加像素画笔笔画&#xA;使用像素画笔擦除&#xA;利用专门工具修饰&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;导出角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;选择要导出的选定区域&lt;/p&gt;</description>
+      <guid>http://localhost:59885/posts/20250419142747-persona/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:59885/posts/20250419130109-affinity_designer/&#34;&gt;Affinity Designer&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation: TODO&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;这里中文翻译是角色&lt;/p&gt;&#xA;&lt;p&gt;因为 Affinity Designer 把矢量和像素处理都放在一块了&#xA;所以要使用矢量工具的时候切换到Designer角色,&#xA;使用栅格或其他像素处理切换到像素角色&#xA;还有一个是导出角色,顾名思义,负责导出&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:59885/ox-hugo/2025-04-19_14-37-33_screenshot.png&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;让我们来看一下每个角色的功能。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Designer 角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;绘制曲线和形状&#xA;添加矢量画笔笔画&#xA;添加填充和透明度&#xA;创建艺术字和边框文本&#xA;添加和裁切照片和矢量图像&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;像素角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;进行基于手绘、形状和画笔的选择&#xA;添加像素画笔笔画&#xA;使用像素画笔擦除&#xA;利用专门工具修饰&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;导出角色&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;选择要导出的选定区域&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

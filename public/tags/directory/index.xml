@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Directory on Cyven&#39;s Braindump</title>
-    <link>http://localhost:1313/tags/directory/</link>
+    <link>http://localhost:59885/tags/directory/</link>
     <description>Recent content in Directory on Cyven&#39;s Braindump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/directory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59885/tags/directory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>get files under dir recursively</title>
-      <link>http://localhost:1313/posts/20250323143601-get_files_under_dir_recursively/</link>
+      <link>http://localhost:59885/posts/20250323143601-get_files_under_dir_recursively/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250323143601-get_files_under_dir_recursively/</guid>
-      <description>&lt;p&gt;我设置了 &lt;code&gt;(setq org-agenda-file &#39;(&amp;quot;path/to/root-agenda-dir&amp;quot;))&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Org-agenda 默认不会递归检索 &lt;code&gt;&amp;quot;path/to/root-agenda-dir&amp;quot;&lt;/code&gt; 子目录的 org 文件，&lt;/p&gt;&#xA;&lt;p&gt;可以使用 &lt;code&gt;directory-files-recursively&lt;/code&gt; 函数, 这是系统自带的方法&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;(setq org-agenda-files (directory-files-recursively &amp;quot;/Users/mmmmmcclxxvii/Documents/cybertheye&#39;s life&amp;quot; &amp;quot;\\.org$&amp;quot;))&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250323162846-org_agenda/&#34;&gt;org agenda&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:59885/posts/20250323143601-get_files_under_dir_recursively/</guid>
+      <description>&lt;p&gt;我设置了 &lt;code&gt;(setq org-agenda-file &#39;(&amp;quot;path/to/root-agenda-dir&amp;quot;))&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Org-agenda 默认不会递归检索 &lt;code&gt;&amp;quot;path/to/root-agenda-dir&amp;quot;&lt;/code&gt; 子目录的 org 文件，&lt;/p&gt;&#xA;&lt;p&gt;可以使用 &lt;code&gt;directory-files-recursively&lt;/code&gt; 函数, 这是系统自带的方法&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;(setq org-agenda-files (directory-files-recursively &amp;quot;/Users/mmmmmcclxxvii/Documents/cybertheye&#39;s life&amp;quot; &amp;quot;\\.org$&amp;quot;))&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:59885/posts/20250323162846-org_agenda/&#34;&gt;org agenda&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plugin on Cyven&#39;s Braindump</title>
-    <link>http://localhost:1313/tags/plugin/</link>
+    <link>http://localhost:59885/tags/plugin/</link>
     <description>Recent content in Plugin on Cyven&#39;s Braindump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59885/tags/plugin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ox-hugo</title>
-      <link>http://localhost:1313/posts/20250409101805-ox_hugo/</link>
+      <link>http://localhost:59885/posts/20250409101805-ox_hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250409101805-ox_hugo/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250318232903-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: 解决从org文件到md文件的转换&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:1313/posts/20250404225505-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ox-hugo is an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/20250317224646-emacs/&#34;&gt;Emacs&lt;/a&gt; 用户会使用 org 来写内容, 为了使用 &lt;a href=&#34;http://localhost:1313/posts/20250404225505-hugo/&#34;&gt;hugo&lt;/a&gt; 来生成静态网页文件生成博客等网页,&#xA;我们需要先让 org 转化到 md 文件,然后再交给 hugo 处理接下来的事情&lt;/p&gt;&#xA;&lt;p&gt;TODO 如何做到的&lt;/p&gt;</description>
+      <guid>http://localhost:59885/posts/20250409101805-ox_hugo/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:59885/posts/20250318232903-org_mode/&#34;&gt;org-mode&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;issue: 解决从org文件到md文件的转换&lt;/li&gt;&#xA;&lt;li&gt;relation: &lt;a href=&#34;http://localhost:59885/posts/20250404225505-hugo/&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;ox-hugo is an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format).&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:59885/posts/20250317224646-emacs/&#34;&gt;Emacs&lt;/a&gt; 用户会使用 org 来写内容, 为了使用 &lt;a href=&#34;http://localhost:59885/posts/20250404225505-hugo/&#34;&gt;hugo&lt;/a&gt; 来生成静态网页文件生成博客等网页,&#xA;我们需要先让 org 转化到 md 文件,然后再交给 hugo 处理接下来的事情&lt;/p&gt;&#xA;&lt;p&gt;TODO 如何做到的&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devops on Cyven&#39;s Braindump</title>
-    <link>http://localhost:1313/tags/devops/</link>
+    <link>http://localhost:59885/tags/devops/</link>
     <description>Recent content in Devops on Cyven&#39;s Braindump</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59885/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tmux</title>
-      <link>http://localhost:1313/posts/20250619155251-tmux/</link>
+      <link>http://localhost:59885/posts/20250619155251-tmux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250619155251-tmux/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:1313/posts/20250619163326-devops/&#34;&gt;DevOps&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;tmux 是一个终端复用器, 在一个终端或一次 &lt;a href=&#34;http://localhost:1313/posts/20250619170441-ssh/&#34;&gt;SSH&lt;/a&gt; 登录中,可以运行多个程序,无须开多个终端,所以叫复用器.&lt;/p&gt;&#xA;&lt;p&gt;同时它还解决了&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;会话保持. 传统 SSH 连接断开后,后台任务就会结束,tmux重新连接后可以继续工作&lt;/li&gt;&#xA;&lt;li&gt;界面布局. 可以分屏,提高效率&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <guid>http://localhost:59885/posts/20250619155251-tmux/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;belong: &lt;a href=&#34;http://localhost:59885/posts/20250619163326-devops/&#34;&gt;DevOps&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;relation:&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;tmux 是一个终端复用器, 在一个终端或一次 &lt;a href=&#34;http://localhost:59885/posts/20250619170441-ssh/&#34;&gt;SSH&lt;/a&gt; 登录中,可以运行多个程序,无须开多个终端,所以叫复用器.&lt;/p&gt;&#xA;&lt;p&gt;同时它还解决了&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;会话保持. 传统 SSH 连接断开后,后台任务就会结束,tmux重新连接后可以继续工作&lt;/li&gt;&#xA;&lt;li&gt;界面布局. 可以分屏,提高效率&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>
