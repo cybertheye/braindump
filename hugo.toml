@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.cybertheye.com/braindump/'
 languageCode = 'en-us'
 title = "Cyven's Braindump"
 theme='cortex'
