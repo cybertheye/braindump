@@ -14,7 +14,7 @@
     {{- $src = strings.TrimPrefix "/" $src -}}
   {{- end -}}
 
-  <img src="{{ $src }}"
+  <img src="{{ $src | relURL }}"
     {{- if or (.Get "alt") (.Get "caption") }}
     alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
     {{- end -}}
