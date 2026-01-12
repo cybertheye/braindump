@@ -4,7 +4,8 @@ title = "Cyven's Braindump"
 theme='cortex'
 #staticDir=''
 #theme='ananke'
-canonifyURLs=true
+#canonifyURLs=true
+relativeURLs=false
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
