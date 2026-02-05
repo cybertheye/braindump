@@ -1,5 +1,5 @@
 +++
-title = "Software Engineering"
+title = "Programming Common"
 author = ["Cyven Chaney"]
 draft = false
 +++

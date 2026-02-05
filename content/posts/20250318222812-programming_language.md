@@ -4,6 +4,8 @@ author = ["Cyven Chaney"]
 draft = false
 +++
 
+-   belong: [Programming]({{< relref "20260130182803-programming.md" >}})
+
 The Language I want to master:
 
 -   [C Entrance]({{< relref "20250318222950-c.md" >}})

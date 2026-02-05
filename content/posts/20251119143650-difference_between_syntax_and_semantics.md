@@ -4,8 +4,7 @@ author = ["Cyven Chaney"]
 draft = false
 +++
 
--   belong: TODO
--   relation: [Programming Language]({{< relref "20250318222812-programming_language.md" >}})
+-   belong: [Programming Common]({{< relref "20260130182901-programming_common.md" >}})
 
 syntax 是指规则
 semantics 是指意义
